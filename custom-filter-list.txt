@@ -1,6 +1,10 @@
 # Instagram
 ||gateway.instagram.com^
 ||i.instagram.com^
+||edge-chat.instagram.com^$important
+||static.cdninstagram.com^$important
+||scontent-vie1-1.cdninstagram.com^$important
+||www.instagram.com^$important
 #9Gag
 ||api.9gag.com^
 ||img-9gag-fun.9cache.com^
@@ -13,4 +17,6 @@
 ||external-preview.redd.it^$important
 ||preview.redd.it^$important
 ||reddit.com^$important
+#Ncore
 ||ncore.pro^
+
