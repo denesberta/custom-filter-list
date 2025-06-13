@@ -13,3 +13,4 @@
 ||external-preview.redd.it^$important
 ||preview.redd.it^$important
 ||reddit.com^$important
+||ncore.pro^
