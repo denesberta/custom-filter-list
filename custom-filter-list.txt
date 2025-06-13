@@ -1,0 +1,15 @@
+# Instagram
+||gateway.instagram.com^
+||i.instagram.com^
+#9Gag
+||api.9gag.com^
+||img-9gag-fun.9cache.com^
+#Reddit
+||v.redd.it^$important
+||gql-realtime.reddit.com^$important
+||www.reddit.com^$important
+||matrix.redditspace.com^$important
+||styles.redditmedia.com^$important
+||external-preview.redd.it^$important
+||preview.redd.it^$important
+||reddit.com^$important
