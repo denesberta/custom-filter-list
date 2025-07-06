@@ -8,15 +8,6 @@
 #9Gag
 ||api.9gag.com^
 ||img-9gag-fun.9cache.com^
-#Reddit
-||v.redd.it^
-||gql-realtime.reddit.com^
-||www.reddit.com^
-||matrix.redditspace.com^
-||styles.redditmedia.com^
-||external-preview.redd.it^
-||preview.redd.it^
-||reddit.com^
 #Ncore
 ||ncore.pro^
 #Youtube
