@@ -14,5 +14,4 @@
 ||youtube-ui.l.google.com
 ||www.youtube.com
 #Youtube mobile
-||youtubei.googleapis.com^$important
 ||play-fe.googleapis.com^$important
