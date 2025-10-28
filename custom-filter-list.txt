@@ -15,3 +15,25 @@
 ||www.youtube.com
 #Youtube mobile
 ||play-fe.googleapis.com^$important
+
+#Block Facebook main domains
+||facebook.com^
+||www.facebook.com^
+||m.facebook.com^
+||web.facebook.com^
+||business.facebook.com^
+||developers.facebook.com^
+||l.facebook.com^
+||lm.facebook.com^
+# Block Facebook CDN/static (may affect some Messenger features - test)
+||static.xx.fbcdn.net^
+# Block Facebook tracking
+||connect.facebook.net^
+||pixel.facebook.com^
+# WHITELIST Messenger (these override blocks above)
+@@||messenger.com^
+@@||www.messenger.com^
+@@||m.messenger.com^
+# Allow Messenger API/infrastructure
+@@||*.messenger.com^
+@@||graph.facebook.com^$app=messenger
